@@ -1,0 +1,19 @@
+#-------------------------
+# config
+#-------------------------
+.htaccess
+.vscode/*
+application/config/database.php
+application/config/config.php
+application/config/config_ybs.php
+application/config/routes.php
+application/views/template_email/Api_Documentation.zip
+error_log
+index.php
+file_sec/*
+images/tmp_user_profile/*
+images/user_profile/*
+images/logo/*
+temp_upload/*
+upload_files/*
+ybs-public.sql

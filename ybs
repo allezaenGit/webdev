@@ -1,0 +1,24 @@
+<?php
+use ybs\cli\ybs_cli;
+
+define('cli','runscript');
+require_once "base";
+require_once BASEPATH . "libraries/ybs/cli/ybs_cli.php";
+
+if(!defined('STDIN'))
+	show_error404();
+ 
+
+$app = new ybs_cli();
+$app->run();
+
+function show_error404(){
+		$heading = "404 Page Not Found";
+		$message = "&emsp; The page you requested was not found. <br><p> </p>";
+		include APPPATH . "views/errors/html/error_404.php";
+		die;
+}
+	
+
+
+

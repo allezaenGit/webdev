@@ -1,0 +1,22 @@
+{
+
+	"require" :{
+		"chriskacerguis/codeigniter-restserver": "^3.1",
+		"geoip2/geoip2": "~2.0",
+		"php": "^7.2.5",
+		"ext-json": "*",
+        "illuminate/database": "7.10.2",
+        "illuminate/container": "^7.0",
+        "illuminate/contracts": "^7.0",
+        "illuminate/support": "^7.0",
+		"illuminate/events": "^7.10.2",
+		"illuminate/pagination":"7.10.2",
+		"google/apiclient": "^2.0",
+		"mike42/escpos-php": "^3.0",
+		"dompdf/dompdf": "^1.0",
+		"midtrans/midtrans-php": "^2.4"
+        
+	}
+	
+	
+}

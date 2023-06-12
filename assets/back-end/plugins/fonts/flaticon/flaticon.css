@@ -1,0 +1,74 @@
+.fic {
+  width: 4.5rem;
+  height: 3.5rem;
+  display: inline-block;
+  background: no-repeat center/100% 100%;
+  vertical-align: bottom;
+  font-style: normal;
+  background-size: contain;
+}
+
+
+.fic-webinar{
+  background-image: url("2762437-telecommuting/svg/001-webinar.svg");
+}
+
+.fic-1{
+	width: 2.5rem;
+	height: 1.5rem;
+}
+
+
+.fic-2{
+	width: 3.5rem;
+	height: 2.5rem;
+}
+.fic-3{
+	width: 4.5rem;
+	height: 3.5rem;
+}
+.fic-4{
+	width: 5.5rem;
+	height: 4.5rem;
+}
+
+.fic-5{
+	width: 6.5rem;
+	height: 5.5rem;
+}
+.fic-6{
+	width: 7.5rem;
+	height: 6.5rem;
+}
+.fic-7{
+	width: 8.5rem;
+	height: 7.5rem;
+}
+.fic-8{
+	width: 9.5rem;
+	height: 8.5rem;
+}
+.fic-9{
+	width: 10.5rem;
+	height: 9.5rem;
+}
+
+
+
+.fic-xs{
+	width: 2.5rem;
+	height: 1.5rem;
+}
+.fic-sm{
+	width: 4.5rem;
+	height: 3.5rem;
+}
+
+.fic-md{
+	width: 6.5rem;
+	height: 5.5rem;
+}
+.fic-lg{
+	width: 8.5rem;
+	height: 7.5rem;
+}
